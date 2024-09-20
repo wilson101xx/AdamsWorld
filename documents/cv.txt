@@ -1,0 +1,117 @@
+Adam Wilson
+Mobile: 07940369813
+E-mail:	wilsonadam15@gmail.com 
+Flat 16
+English Oak house
+Bristol
+BS13 0FQ
+   
+
+PROFILE
+I am self-motivated and enjoy learning new skills with a focus on new technologies. I have hands-on experience in delivering technical solutions in Devops environments to tight deadlines.  I have the ability to translate customer business requirements into technical designs and communicate these to peers as well as management. I have experience in Agile teams. I’m enthusiastic about sharing my knowledge and confident in providing technical training for others at all levels. I am adaptable to new situations and am looking for opportunities that will challenge and enhance my skillset.
+
+KEY SKILLS
+	Autogen
+	Web Design (HTML, CSS)		Programming
+	Semantic Kernel		Technical Support
+	AI
+	Automation Development
+	Cloud Networking
+	Front end development
+	Apache
+	Docker
+	MySQL
+	BDD
+	Microsoft Azure Cloud		Training/Coaching
+	Python
+	HTTP2
+	Agile Working
+	Open stack
+	Database Development
+	Flask
+	Microsoft Active Directory		Terraform
+	Docker
+	DevOps
+	Network Cloud
+	Mentoring
+	Jira templates
+	CI/CD
+	Azure OpenAI
+EMPLOYMENT						
+Senior Software Development Engineer
+Mouser Electronics, EPM | August 2021 – Present
+•	AI Platform Team Leadership:
+o	Spearheaded the development of an AI platform, leading a team of 8 employees.
+o	Recognized as a contributor by Microsoft for my contributions to Semantic Kernal
+o	Deployed multiple AI models on Microsoft Azure, using Function apps for data vectorization and Python semantic kernel for scalable template creation.
+o	Designed on-premises solutions and a scalable core using Terraform for resource deployment based on approved tickets.
+•	Key AI Implementations:
+o	Product Assistance Chatbot:
+	Deployed a chatbot for customer interactions on the company website, enabling product search using images and various queries.
+o	Autogen Generator:
+	Developed a tool for automatic code generation, supporting code writing, testing, and deployment via natural language prompts.
+o	Product Image Recognition:
+	Replaced legacy systems with an AI-based program for product identification on conveyor belts, enhancing order accuracy.
+o	Sales Order Entry Automation:
+	Automated sales order input, reducing manual entry by 80% through AI document detection.
+o	Cost Savings with Language Translations:
+	Achieved quarterly savings of $1.5 million in translation in one language alone for automating text translations. We have in total automated 15 languages so far 
+•	Additional Contributions:
+o	Migrated on-premise passcode management to a cloud-based platform.
+o	Established CI/CD pipeline standards and policies using GitLab.
+o	Automated Freshservice ITSM ticketing system integration with third-party apps.
+o	Managed software image patching, testing, and release using GitLab.
+o	Created an automated version control pipeline for Terraform modules.
+Achievements:
+•	Led AI initiatives resulting in significant operational efficiencies and cost savings.
+•	Contributed to Microsoft's Python semantic kernel development.
+
+Lead Automation Software Engineer
+System Interface, British Telecom | April 2021 – August 2022
+•	Managed a CI/CD team developing 5G standalone solutions for EE UK-wide.
+•	Delivered automation solutions for the emergency services network using Python.
+•	Modernized old processes, including creating an online RACI Matrix portal and deploying Ericsson tools for network monitoring.
+•	Conducted Python programming courses for over 30 BT engineers.
+•	Utilized Docker for automated testing environments in a DevOps setup.
+•	Created 5G standalone HTTP2 API environments with Blazemeter.
+•	Developed Yaml extractors in a BDD context.
+•	Collaborated with government cyber teams on national security projects.
+Infrastructure Engineer Apprentice
+British Telecom | September 2019 – April 2021
+•	Awarded best apprentice out of 300+ UK-wide for exceptional work.
+•	Designed and maintained in-house monitoring tools for customer networks.
+•	Developed a machine learning anomaly detection tool for network monitoring and auto troubleshooting.
+•	Worked on national security projects with government services.
+
+
+Founder & Website Designer
+Self-Employed | May 2017 – August 2019
+•	Founded a web design company providing promotional and website solutions for small businesses.
+•	Self-taught programmer proficient in CSS, HTML, Python, and BBC.
+•	Managed a small team and built strong client relationships.
+
+
+
+On the side
+Within BT I was lucky enough to be selected to be the Head of Attraction ambassador for BT Bristol. This involves promoting and interviewing potential new apprentices, and graduates to BT. For this I manage and delegate work to a team of other apprentices, task include regular visits so schools, universities, and career fares. This has once again improved my management skills to be a confident leader and speaker.  I was also selected to meet with MPs in Bristol and the Mayor of Bristol who subsequently has invited me to further events to talk about do a talk about the company, opportunities and apprenticeships.
+
+Outside of BT I also do python tutoring, this allows me to reinforce my knowledge along with passing it on to other inspiring programmers. 
+
+I am a keen Mountain Biker, travelling to various events and races throughout the UK racing
+
+I love Rugby and play for a local Bristol team. I also have been asked to do their marketing and digital footprint.  
+
+
+Key Certifications			
+
+A Levels		Engineering – Distinction			
+Physics – C
+			Computer Science Practical – A*
+
+BT Apprentice while studying at the University of Bristol
+
+•	2020 - Microsoft Technology Associate Cloud Fundamentals
+•	2020 - BSC Level 3 Coding and Logic
+•	2020 - Microsoft Technology Associate Networking Fundamentals
+•	2020 - Microsoft Technology Associate Device Fundamentals
+•	2020 - Microsoft Technology Associate Networking Materials	 
