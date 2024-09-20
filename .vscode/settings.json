@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8c8699f0-790b-4928-886e-3648198603d7/resourceGroups/AI_Project/providers/Microsoft.Web/sites/AdamWilson",
+    "appService.deploySubpath": "."
+}
