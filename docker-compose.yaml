@@ -1,12 +1,18 @@
 version: '3.8'
 
-services:
+services: 
   adam-cv:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: api-service
+    container_name: adamcv
     ports:
       - "7860:7860"
     env_file: .env
-    command: ["python", "src/user_interface.py"]
+    command: ["python", "user_interface.py"]
+
+  kernel_memory:
+    image: kernelmemory/service
+    container_name: kernelmemoryadamCV
+    restart: unless-stopped
+    

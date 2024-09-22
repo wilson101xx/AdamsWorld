@@ -86,6 +86,7 @@ def display_cv():
         <li>BSC Level 3 Coding and Logic</li>
     </ul>
     """
+print("Application Started")
 
 # Create the homepage interface
 with gr.Blocks() as homepage:
