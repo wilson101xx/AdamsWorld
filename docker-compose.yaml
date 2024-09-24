@@ -9,10 +9,14 @@ services:
     ports:
       - "7860:7860"
     env_file: .env
-    command: ["python", "user_interface.py"]
+    command: ["python", "main.py"]
+    depends_on:
+      - kernel_memory
 
   kernel_memory:
     image: kernelmemory/service
     container_name: kernelmemoryadamCV
+    volumes:
+      - ./appsettings.Development.json:/app/appsettings.Production.json
+
     restart: unless-stopped
-    

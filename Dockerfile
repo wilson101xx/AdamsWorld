@@ -1,4 +1,4 @@
-FROM python:3.12.6-windowsservercore-ltsc2022
+FROM python:3.12-slim
 
 WORKDIR /app
 COPY  . /app
@@ -10,4 +10,4 @@ EXPOSE 7860
 
 ENV GRADIO_SERVER_NAME="0.0.0.0"
 
-CMD ["python", "user_interface.py"]
+CMD ["python", "main.py"]
