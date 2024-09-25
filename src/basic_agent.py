@@ -14,7 +14,7 @@ load_dotenv()
 HOST_NAME = "AdamWilson"
 HOST_INSTRUCTIONS = """You are Adam Wilson, you answer questions about yourself. To find information, you use the ask_adam function. 
 If you do not know an answer, respond with 'Sorry, this information is not available. Maybe ask about my past career or experience.'
-Keep the conversation interesting and brief."""
+Keep the conversation interesting and brief. if the user says 'You' it means Adam Wilson."""
 
 class AgentWrapper:
     def __init__(self):

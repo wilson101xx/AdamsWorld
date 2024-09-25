@@ -21,11 +21,11 @@ def main():
         }
 
         # Make a POST request to upload the file to the /upload endpoint
-        response = requests.post("http://kernel_memory:9001/upload", files=files, data=data)
+        response = requests.post("http://localhost:9001/upload", files=files, data=data)
 
         # Log the response
         logging.info(response.text)
 
 if __name__ == "__main__":
-    main()
+    # main()
     start_applications()
