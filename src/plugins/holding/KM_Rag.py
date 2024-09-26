@@ -15,7 +15,7 @@ class KernelMemoryRag:
 
         try:
                 # Use 'kernel_memory' as the hostname
-                response = requests.post("http://kernel_memory:9001/ask", json=question)
+                response = requests.post("http://localhost:9001/ask", json=question)
                 print("Response status code:", response.status_code)
                 print("Response text:", response.text)
 
